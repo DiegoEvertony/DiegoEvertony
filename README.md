@@ -33,7 +33,7 @@
 ##
 
 #### Como entrar em contato comigo 🤝:
-[<img alt="Linkedin" target="_blank" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/diegoevertony)
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/diegoevertony)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red"/>](mailto:diegoevertony.dev@gmail.com)
 
 
