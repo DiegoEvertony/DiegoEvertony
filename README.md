@@ -40,3 +40,9 @@
 
 ##
 
+#### Estatísticas 📊:
+<div>
+<img loading="lazy" width="45%" src="https://github-readme-stats.vercel.app/api/?username=DiegoEvertony&show_icons=true&include_all_commits=true&theme=radical"/>
+<img loading="lazy" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoEvertony&layout=compact&langs_count=7&theme=radical"/>
+  
+</div>
