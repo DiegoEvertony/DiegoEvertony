@@ -3,9 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5113F7&width=435&height=40&lines=Hello%2C+I'm+Diego+Evertony!)](https://git.io/typing-svg)
 # Seja bem-vindo ao meu perfil GitHub 🚀 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-- 🔰  Sou de Brasília/DF, Brasil
-- ⚡ Apaixonado por Games, design e Tecnologia
-- 💻 Cursando Análise e desenvolvimento de sistemas
+- 💻 Desenvolvedor Front-End
+- 🚩 Sou de Brasília/DF, Brasil
+- ⚡ Apaixonado por Games, Design e Tecnologia
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
 
 ##
 
