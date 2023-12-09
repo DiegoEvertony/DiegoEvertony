@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5113F7&height=120&section=header"/>
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5113F7&width=435&height=40&lines=Hello%2C+I'm+Diego+Evertony!)](https://git.io/typing-svg)
@@ -47,3 +49,5 @@
 <img loading="lazy" width="45%" src="https://github-readme-stats.vercel.app/api?username=DiegoEvertony&theme=radical&show_icons=true"/>
 <img loading="lazy" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoEvertony&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5113F7&height=120&section=footer"/>
