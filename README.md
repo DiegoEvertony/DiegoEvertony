@@ -51,8 +51,8 @@
 #### Estatísticas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="18" height="18" />:
 
 <div>
-<img loading="lazy" width="45%" src="https://github-readme-stats.vercel.app/api?username=DiegoEvertony&theme=radical&show_icons=true"/>
-<img loading="lazy" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoEvertony&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" width="47%" src="https://github-readme-stats.vercel.app/api?username=DiegoEvertony&theme=radical&show_icons=true"/>
+<img loading="lazy" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoEvertony&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5113F7&height=120&section=footer"/>
