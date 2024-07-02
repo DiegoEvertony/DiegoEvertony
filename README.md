@@ -25,8 +25,9 @@
 [<img height="48px" width="48px" alt="Icone express" src="https://skillicons.dev/icons?i=express"/>](https://expressjs.com/pt-br/)
 [<img height="48px" width="48px" alt="Icone sequelize" src="https://skillicons.dev/icons?i=sequelize"/>](https://sequelize.org)
 <br>
-[<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
+[<img height="48px" width="48px" alt="Icone sqlite" src="https://skillicons.dev/icons?i=sqlite"/>](https://www.sqlite.org)
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com)
+[<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
 
 ##
 
