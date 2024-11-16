@@ -19,12 +19,13 @@
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
 [<img height="48px" width="48px" alt="Icone bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com)
 <br>
+[<img height="48px" width="48px" alt="Icone styledcomponents" src="https://skillicons.dev/icons?i=styledcomponents"/>](https://styled-components.com)
 [<img height="48px" width="48px" alt="Icone tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://tailwindcss.com)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone typescript" src="https://skillicons.dev/icons?i=typescript"/>](https://www.typescriptlang.org)
 [<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
-[<img height="48px" width="48px" alt="Icone express" src="https://skillicons.dev/icons?i=express"/>](https://expressjs.com/pt-br/)
 <br>
+[<img height="48px" width="48px" alt="Icone express" src="https://skillicons.dev/icons?i=express"/>](https://expressjs.com/pt-br/)
 [<img height="48px" width="48px" alt="Icone sequelize" src="https://skillicons.dev/icons?i=sequelize"/>](https://sequelize.org)
 [<img height="48px" width="48px" alt="Icone sqlite" src="https://skillicons.dev/icons?i=sqlite"/>](https://www.sqlite.org)
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com)
